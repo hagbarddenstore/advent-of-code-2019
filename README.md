@@ -8,6 +8,9 @@ Everything is written in Python.
 
 Execute `python day1.py` to calculate both part 1 and part 2 for day 1.
 
+## Day 2
+
+Execute `python day2.py` to calculate both part 1 and part 2 for day 2.
 
 ## Requirements
 
