@@ -6,6 +6,14 @@ Everything is written in Python.
 
 ## Day 1
 
-Execute `python part-1.py < input` to calculate the result for part 1.
+Execute `python day1.py` to calculate both part 1 and part 2 for day 1.
 
-Execute `python part-2.py < input` to calculate the result for part 2.
+
+## Requirements
+
+Run `pip install -r requirements.txt` to install the required packages
+to be able to execute all scripts.
+
+## Tests
+
+Run `pytest` to execute all tests.
